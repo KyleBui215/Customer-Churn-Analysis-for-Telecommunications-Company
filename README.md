@@ -6,7 +6,7 @@ report for stakeholders.
 
 ## Project Deliverables Status
 
-- [x] **Stage 1.1 — Project Charter**: 
+- [x] **Stage 1.1 — Project Charter**: WILDA26_05 Group 5 Project Charter.docx
 - [x] **Stage 2.1 — Data Preparation**: load data, integrity checks, encode categorical variables,
       feature scaling, train/test split.
 - [x] **Stage 2.2 — Clustering Analysis**: optimal k via elbow method + silhouette score, KMeans
@@ -76,4 +76,12 @@ relies on most (see notebook for the ranked chart).
 
 ## Author
 
-_Add your name here._
+Tuan Nghia Bui - Project manager
+
+Sharon - Data engineering
+
+Hammad Anwar - Data Analyst Clustering
+
+Sam - Business analyst 
+
+Sharmila - Data Analyst Predictive modeling
