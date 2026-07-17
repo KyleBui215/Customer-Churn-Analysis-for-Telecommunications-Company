@@ -6,7 +6,7 @@ report for stakeholders.
 
 ## Project Deliverables Status
 
-- [x] **Stage 1.1 — Project Charter**: [`docs/Project_Charter.docx`](docs/Project_Charter.docx)
+- [x] **Stage 1.1 — Project Charter**: 
 - [x] **Stage 2.1 — Data Preparation**: load data, integrity checks, encode categorical variables,
       feature scaling, train/test split.
 - [x] **Stage 2.2 — Clustering Analysis**: optimal k via elbow method + silhouette score, KMeans
